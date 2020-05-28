@@ -1,0 +1,96 @@
+
+.main-square{
+ background-image: url("https://images.pexels.com/photos/2106460/pexels-photo-2106460.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  background-size: 115%;
+  padding-bottom: 50%;
+/*background-image: url("https://cdn.pixabay.com/photo/2020/05/19/12/59/phone-5190643_1280.jpg"); */
+}
+
+.wedding-square{
+  background-image: url("https://images.pexels.com/photos/544268/pexels-photo-544268.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+   background-size: 115%;
+   padding-bottom: 65%;
+}
+
+.pre-wedding-square{
+  background-image: url("https://cdn.pixabay.com/photo/2019/01/28/15/02/couple-3960623__340.jpg");
+   background-size: 115%;
+   padding-bottom: 65%;
+}
+
+.baby-square{
+  background-image: url("https://cdn.pixabay.com/photo/2019/04/11/12/40/easter-4119709__340.jpg");
+   background-size: 115%;
+   padding-bottom: 65%;
+}
+
+.portrait-square{
+  background-image: url("https://cdn.pixabay.com/photo/2016/03/24/09/10/men-1276384__340.jpg");
+   background-size: 115%;
+   padding-bottom: 65%;
+}
+
+.front-heading-cursive{
+  font-family: 'Marck Script', cursive;
+  color: white;
+  font-size: 6rem;
+}
+
+.main-home-text{
+    padding-top: 50%;
+}
+
+
+
+.mPhoto-heading-elements{
+font-size: 7rem;
+}
+
+.mPhoto-heading{
+  font-family: 'Jost', sans-serif;
+  color: white;
+
+  padding-bottom: 1.5rem;
+
+
+}
+
+body{
+  text-align: center;
+  /*  background-image: url(d:/pi.jpg); */
+
+   background-size: 2277px 1920px;
+   object-fit: scale-down;
+}
+
+button{
+  height: 5rem;
+  width: 20rem;
+}
+
+.mPhoto-tagline{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+.btn-div{
+  padding-top: 2rem;
+}
+
+.mPhoto-tagline-elements{
+  font-size: 2.7rem;
+}
+
+.navbar-mostbeautiful-photography{
+  color: white;
+}
+
+span{
+  font-size: 2.7rem;
+
+}
+
+/* font-family: 'Jost', sans-serif;
+font-family: 'Marck Script', cursive;
+font-family: 'Montserrat', sans-serif;
+*/
